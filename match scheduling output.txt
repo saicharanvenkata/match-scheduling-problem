@@ -1,0 +1,14 @@
+java -cp /tmp/Jm89JpMqlN MatchesProblem
+[India vs Australia, India vs England, India vs Pakistan, India vs Newzealand, Australia vs England, Australia vs Pakistan, Australia vs Newzealand, England vs Pakistan, England vs Newzealand, Pakistan vs Newzealand]
+India
+2
+2
+Australia
+3
+1
+England3
+1
+Pakistan1
+3
+Newzealand1
+3
